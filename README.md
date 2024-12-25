@@ -10,7 +10,7 @@ This app allows users to search for locations and displays a map view of the sea
 
 ## 🛠️ Technologies Used
 
-- Vite with TypeScript
+- React with TypeScript
 - Tailwind CSS
 - Leaflet (for maps)
 
